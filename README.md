@@ -6,7 +6,6 @@ this line was added
 
 push the changes this time
 
-
-##def func() :
+def func() :
 pass 
 
